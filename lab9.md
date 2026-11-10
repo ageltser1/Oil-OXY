@@ -14,8 +14,6 @@
 
 Total: 100
 
-**Submitting AI generated modules result in a -100% penalty**
-
 ---
 
 ## Instructional Objectives
@@ -553,8 +551,3 @@ Before leaving, ensure you:
 - **Log out of your lab station** to avoid a penalty.
 
 ---
-
-
-For questions or comments, please contact the [Course Webmaster](mailto:ece270@ecn.purdue.edu).
-
-*All the materials on this site are intended solely for the use of students enrolled in ECE 270 at the West Lafayette Campus of Purdue University. Downloading, copying, or reproducing any of the copyrighted materials posted on this site (documents or videos) for anything other than educational purposes is forbidden.*
