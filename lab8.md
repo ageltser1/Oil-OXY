@@ -24,7 +24,7 @@ Please keep in mind that you need the same clock-reset button circuitry for lab 
 | 4    | Demonstrate your work to a TA | 20 |
 |      | **Total**                  | **100**|
 
-\* 20% penalty for late checkoffs, bringing in liquids, or leaving an unclean/unusable station. -100% for submitting AI generated modules.
+\* 20% penalty for late checkoffs, bringing in liquids, or leaving an unclean/unusable station. 
 
 > **Attention:**
 >
@@ -177,5 +177,3 @@ The .zip file mentioned above should contain:
 
 We have provided an example submission in the `submission` folder, indicating what files you need to submit (you are not required to submit lab8.ipynb). Note, you need to submit the *.sv files as well they are not included in the submission folder as their format is given in this document. Follow the format. If you do not submit the files in the submission folder and in the format indicated, you will lose points.
 
----
-Questions or comments about the course or the content of these webpages should be sent to the [Course Webmaster](mailto:ece270@ecn.purdue.edu). All materials on this site are intended solely for students enrolled in ECE 270 at Purdue University. Downloading, copying, or reproducing any copyrighted materials from this site for any purpose other than education is forbidden.
